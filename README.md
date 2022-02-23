@@ -62,4 +62,3 @@ sou apaixonado pela a area de programação desde de o ano de 2015 iniciando a m
 
 ![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielanselmo&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielanselmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
