@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Adriel Anselmo 👋
-Eu sou formado em tecnico em programação, tenho o nível de inglês intermediario e </br>
-sou apaixonado pela a area de programação desde de o ano de 2015 iniciando a minha jornada programando em PHP, e a minha paixão atualmente é ser FullStack!!
+Eu sou formado em tecnico em programação, tenho o nível de inglês intermediario e sou apaixonado pela a area de programação desde de o ano de 2015 iniciando a minha jornada programando em PHP, e a minha paixão atualmente é ser FullStack!!
 
 
 ## Redes Sociais
