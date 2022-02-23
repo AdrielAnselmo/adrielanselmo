@@ -60,5 +60,5 @@ Eu sou formado em tecnico em programação, tenho o nível de inglês intermedia
 <br/>
 
 ![Adriel GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielanselmo&show_icons=true&theme=radical)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/adrielanselmo/adrielanselmo/blob/output/github-contribution-grid-snake.svg)
 
